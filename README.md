@@ -1,2 +1,2 @@
 # My_Repo
-Demo for learning Git Hub
+Practice Demo code
